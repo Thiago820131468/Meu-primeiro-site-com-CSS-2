@@ -1,0 +1,30 @@
+#body1 {
+	background-image: center;
+	text-align: center;
+	background-color: grey;
+}
+
+.grupo2 {
+	background-color: grey;
+}
+
+.grupo {
+	background-color: yellow;
+	font-size: large;
+}
+
+div {
+	text-align: center;
+}
+
+#imagem2 {
+	position: absolute;
+	right: 0;
+}
+div p {
+	margin-top: 100px;
+	background-color: yellow;
+	border: 10px double green;
+	padding-right: 400px;
+	padding-left: 400px;
+}
